@@ -1,6 +1,6 @@
 package com.practice.java;
 
-public class                                                                                                   Main {
+public class Main {
 
     public static void main(String[] args) {
         // write your code here
@@ -32,9 +32,5 @@ public class                                                                    
         System.out.println("The first two parts of a_ray are " + a_ray[0] + " and " + a_ray[1]);
 
         System.out.println("The first two monorails add up to " + ((int)monorail[0] + (int)monorail[1]));
-
-
-
-
     }
 }
